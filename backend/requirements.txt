@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pydantic
+python-multipart
+scikit-learn
+pandas
+numpy
+joblib
+python-dotenv
+aiofiles
+earthengine-api
+geopandas
